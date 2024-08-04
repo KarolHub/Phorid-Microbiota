@@ -1,0 +1,8 @@
+								spring			summer			
+ID	SIIP_ID	province	city	site	description	latitude	longitude	date	females	males	date	females	males	
+M28	SIIP30	Norrbotten	Kätkesuando	hay_meadow	Willow edge on hay meadow (>150 years continuity)	68.111431	23.330286	05/06/2018-28/06/2018	50	81	25/07/2018-01/08/2018	84	77	292
+M32	SIIP32	Lappland	Abisko	lakeside	Lakeside with willows	68.355154	18.826526	05/06/2018-28/06/2018	79	80	29/07/2018-07/08/2018	82	85	326
+M35	SIIP35	Lappland	Abisko, Nuolja	alpine_meadow	Alpine meadow (above tree line)	68.361011	18.736851	03/06/2018-03/07/2018	70	85	29/07/2018-07/08/2018	82	73	310
+M38	SIIP38	Lappland	Ammarnäs	shrubbery	Salix shrubbery behind hotel	65.957289	16.205235	01/06/2018-02/07/2018	77	74	22/07/2018-17/08/2018	74	69	294
+M43	SIIP43	Norrbotten	Kätkesuando	riverbank	Willow rich riverbank	68.111319	23.331281	05/06/2018-28/06/2018	67	77	25/07/2018-01/08/2018	69	64	277
+M25	SIIP25	Lappland	Voullerim	urban_garden	Village garden (suburban)	66.42997	20.62434	01/06/2018-24/06/2018	85	86	22/07/2018-07/08/2018	87	85	343
