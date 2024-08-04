@@ -1,4 +1,4 @@
-date	season	trap	country	Province	City	Latitude	Longitude	Site characteristics
+date	season	trap	country	province	city	latitude	longitude	site_characteristics
 05/06/2018-28/06/2018	A	SIIP30	SWEDEN	Norrbotten	Kätkesuando	68,111431	23,330286	Willow edge on hay meadow (>150 years continuity)
 25/07/2018-01/08/2018	B	SIIP30	SWEDEN	Norrbotten	Kätkesuando	68,111431	23,330286	Willow edge on hay meadow (>150 years continuity)
 05/06/2018-28/06/2018	A	SIIP32	SWEDEN	Lappland	Abisko	68,355154	18,826526	Lakeside with willows
