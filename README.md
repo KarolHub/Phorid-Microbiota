@@ -1,5 +1,7 @@
 # Phorid-Microbiota
 
+The README file will be updated before the review
+
 Tables with data:
 Final_16Sv4_Decontaminated_OTU_Table
   The table contains numbers of decontaminated bacterial reads coming from the amplicon sequencing of a 16Sv4 rRNA region for the processed set of 1842 phorid fly samples. The sequences ZOTU/ASV are grouped into 97% OTUs.
