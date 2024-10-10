@@ -1,4 +1,4 @@
-sample_ID	insect_species	insect_genotype	site	sex	Zotu206	Zotu333	Zotu486	Zotu537	Zotu535	Zotu538	Zotu323	Zotu442	Zotu533	Zotu332	Zotu495	Zotu502	Zotu345	Zotu406	Zotu363	Zotu510	Zotu553	Zotu567	Zotu508	Zotu898	Zotu490	Zotu512	Zotu661	Zotu1188
+sample_ID	insect_species	insect_genotype	site	sex	zOTU206	zOTU333	zOTU486	zOTU537	zOTU535	zOTU538	zOTU323	zOTU442	zOTU533	zOTU332	zOTU495	zOTU502	zOTU345	zOTU406	zOTU363	zOTU510	zOTU553	zOTU567	zOTU508	zOTU898	zOTU490	zOTU512	zOTU661	zOTU1188
 SPH0001	Megaselia_sp.001	Megaselia_sp.001_Genotype_03	M28	male	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 SPH0003	Megaselia_sp.001	Megaselia_sp.001_Genotype_02	M28	male	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
 SPH0005	Megaselia_sp.012	Megaselia_sp.012_Genotype_06	M28	male	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
