@@ -1,0 +1,13 @@
+Figure SX. Relationship between R and mean prevalence of 16S rRNA OTUs, 16S rRNA ZOTUs and Wolbachia COI ZOTUs. R² values were calculated from the joint species distribution models fitted to the presence–absence datasets.
+
+Table S1:
+Table S2:
+Table S3:
+Table S4:
+Table S5:
+Table S6:
+Table S7:
+Table S8:
+Table S9:
+Table S10:
+
