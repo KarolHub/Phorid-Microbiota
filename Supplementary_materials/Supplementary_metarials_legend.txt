@@ -1,5 +1,4 @@
-Supplementary figure, tables and files are available at:
-https://github.com/KarolHub/Phorid-Microbiota/tree/main/Supplementary_materials
+Supplementary figure, tables and files are referencing an article titled "Beneath the scuttle: Patterns of bacterial abundance, diversity and distribution in an insect dark taxon"
 
 Supplementary Figure S1: Relationship between the explained variance (R2) of bacterial taxa presence and their prevalence.
 
