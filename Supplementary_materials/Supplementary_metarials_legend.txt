@@ -1,4 +1,4 @@
-Supplementary figure, tables and files are referencing an article titled "Beneath the scuttle: Patterns of bacterial abundance, diversity and distribution in an insect dark taxon"
+Supplementary figures, tables and files are referencing an article titled "What lurks in the dark? - An innovative framework for studying diverse wild insect microbiota"
 
 Supplementary Fig. S1: Ordination of host communities composition among sites and seasons (NMDS plot based on Bray-Curtis dissimilarity).
 Supplementary Fig. S2: Relationship between the explained variance (R2) of bacterial taxa presence and their prevalence.
