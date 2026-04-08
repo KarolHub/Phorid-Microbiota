@@ -1,6 +1,8 @@
 # Phorid-Microbiota
 
-The README file will be updated before the review
+This repository contains scripts and data published in "What lurks in the dark? An innovative framework for studying diverse wild insect microbiota" in 2025, by Karol H. Nowak, Emily Hartop, Monika Prus-Frankowska, Mateusz Buczek, Michał R. Kolasa, Tomas Roslin, Otso Ovaskainen & Piotr Łukasik.   
+
+A copy of the data is available in the Figshare repository: https://doi.org/10.6084/m9.figshare.c.7862042
 
 Tables with data:
 Final_16Sv4_Decontaminated_OTU_Table
