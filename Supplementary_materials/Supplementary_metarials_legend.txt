@@ -1,6 +1,5 @@
 Supplementary figures, tables and files are referencing an article titled "What lurks in the dark? - An innovative framework for studying diverse wild insect microbiota"
 
-Supplementary materials: 
   Supplementary Fig. S1: Ordination of host communities' composition among sites and seasons (NMDS plot based on Bray-Curtis dissimilarity)
   Supplementary Fig. S2: The number of 16S-V4 OTUS (a) and ZOTUS (b) present in at least a hundred copies, across the six sites and between females and males of the five most common host species
   Supplementary Fig. S3: The distribution of the most common bacterial 97% OTUs across the most common fly species. For each OTU-host category, we show infection prevalence (fraction of insects harbouring at least a hundred copies of 16S-V4 rRNA - pie charts), and estimated absolute abundance of that OTU (box plot). Data is shown separately for the two sexes, across (a) the five most common fly species, from across the sampled sites; and (b) from across sites for the three most common fly species
