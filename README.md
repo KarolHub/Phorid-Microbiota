@@ -35,7 +35,7 @@ Supplementary materials:
   Supplementary Figure S6: Residual associations in the presence-absence model and the abundance conditional of presence model among bacterial taxa at the levels of microbial 16S-V4 OTUs (a), 16S-V4 ZOTUs (b) and Wolbachia COI ZOTUs (c)
 
   Supplementary Table S1: Details of the sampling sites and the numbers of processed insect specimens passing the quality criteria
-  Supplementary Table S2: List of sample barcodes, species and genotype assignments, along with their sexes, sampling locations and accession numbers
+  Supplementary Table S2: List of sample barcodes, species and genotype assignments, along with their sexes, sampling locations and accession numbers. On 02.11.2026 a typo was fixed - the genotype_name of sample SPH0001 was changed from ‘03’ to ‘003’
   Supplementary Table S3: Numbers and proportions of 16S rRNA reads classified as contaminants, spikeins, and symbionts across the samples, identified by the QUACK script
   Supplementary Table S4: List of 16S rRNA OTUs, their prevalence and abundance across samples
   Supplementary Table S5: Comparison of Wolbachia presence between COI and 16S-V4 datasets
